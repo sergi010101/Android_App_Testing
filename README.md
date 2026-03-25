@@ -1,4 +1,4 @@
-📱 Тестирование мобильного приложения 
+# 📱 Тестирование мобильного приложения 
 Провел комплексное тестирование функциональности, интерфейса и производительности <a href="https://drive.google.com/file/d/1kaLRWM8A6KIQkxGMlwimvfkBdD2Z9fPm/view?usp=drive_link"> Android-приложения </a> для создания и управления задачами.
 
 Окружение: Эмулятор Android Studio (Google Pixel Pro, Android 16.0 Baklava).
